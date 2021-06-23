@@ -4,3 +4,5 @@ are
 you
 fine 
 good
+bad
+ugly
